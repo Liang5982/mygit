@@ -1,0 +1,3 @@
+# mygit
+
+first vscode git
